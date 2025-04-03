@@ -45,7 +45,7 @@ This project is dedicated to **the future of clean energy and free innovation**.
 ---
 
 🔧 **Inventor**: *Sateesh Peetha*  
-📅 **Released**: *[Date of Upload]*  
+📅 **Released**: *Apr - 04- 2025*  
 📢 **Follow & Share**: Help spread awareness about this open-source clean energy project!  
 
 🚀 *Let’s see if the world recognizes true innovation without bias!*  
