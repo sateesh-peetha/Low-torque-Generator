@@ -1,0 +1,44 @@
+# Generation Disclaimer  
+
+This open-source generator design is provided **as-is** without any warranty.  
+By using or modifying this design, you acknowledge that:  
+
+- The author(s) are **not liable** for any damages, failures, or misuse.  
+- This design is **experimental** and may require further improvements.  
+- The user assumes all responsibility for testing, safety, and compliance with regulations.  
+
+---
+
+# CERN Open Hardware License – Strong Version 2 (CERN-OHL-S v2)  
+
+## 1. Preamble  
+The CERN-OHL-S v2 ensures that this hardware remains open and accessible.  
+Anyone modifying or distributing this work must share their modifications  
+under the same terms.  
+
+## 2. Definitions  
+- **Licensed Material**: This generator design, including all related files.  
+- **Source**: The preferred form of the work for making modifications.  
+- **Covered Source**: The source distributed under this license.  
+- **Product**: A physical implementation of the Licensed Material.  
+
+## 3. Copyright and Licensing  
+- The author(s) **retain ownership** of their original work.  
+- Anyone can use, modify, and distribute this work, but **must credit the original author(s)**.  
+- If you distribute a modified version, it must also be licensed under CERN-OHL-S v2.  
+
+## 4. No Patent Claims  
+- You **cannot** patent this work or modifications derived from it.  
+- You **cannot** impose restrictions preventing others from using it.  
+
+## 5. Warranty Disclaimer  
+This work is provided **without any warranty**.  
+The author(s) are **not responsible** for any damages or legal issues arising from its use.  
+
+## 6. Compliance  
+By using or modifying this design, you **agree to the CERN-OHL-S v2 license terms**.  
+
+---
+
+For full license details, visit:  
+🔗 [https://ohwr.org/cern_ohl_s_v2.txt](https://ohwr.org/project/cernohl/wikis/CERN-OHL-version-2)  
