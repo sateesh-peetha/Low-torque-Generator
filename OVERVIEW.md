@@ -81,6 +81,7 @@ Low-torque generators have the potential to power a wide range of clean energy t
 
 
 Simple axial generator 2d CAD models included.
+[CAD Models here](/CAD/)
 
 ---
 
