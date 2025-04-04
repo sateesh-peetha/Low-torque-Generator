@@ -38,14 +38,14 @@ This makes it difficult to create reliable off-grid energy systems, especially i
 
 ## 🌿 Low-Torque Generator Concept
 
-*(This section is reserved for the inventor's unique contribution and design details.)*  
+
 👉 *You can describe your specific coil/magnet configuration, how your design reduces back EMF, or how it produces output at low RPMs.*
 
 ---
 
 ## 🛠️ Technical Design Highlights
 
-*(Placeholder for your invention's technical specifications.)*  
+
 - Coil configuration  
 - Magnet placement  
 - Rotor/stator mechanics  
@@ -79,13 +79,8 @@ Low-torque generators have the potential to power a wide range of clean energy t
 
 ## 🧪 Status of the Project
 
-*(Placeholder for your project status.)*  
-You can include:
-- Design maturity  
-- CAD models or circuit schematics  
-- Testing results  
-- Challenges faced  
-- Next steps or development goals
+
+Simple axial generator 2d CAD models included.
 
 ---
 
