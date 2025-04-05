@@ -34,7 +34,7 @@ These torque-related limitations hinder the ability to generate electricity usin
 
 This makes it difficult to create reliable off-grid energy systems, especially in rural areas, developing regions, or emergency situations.
 
----
+![Example](images/Traditional%20Generator%20drawbacks.png)
 
 ## 🌿 Low-Torque Generator Concept
 
