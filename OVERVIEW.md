@@ -34,7 +34,7 @@ These torque-related limitations hinder the ability to generate electricity usin
 
 This makes it difficult to create reliable off-grid energy systems, especially in rural areas, developing regions, or emergency situations.
 Be it with statorcore or without core, Same problem persists.
-![Example](images/Traditional%20Generator%20drawbacks.png)
+![Example](images/Traditional%20Generator%20drawbacks%20V3.png)
 
 ![Output Drop](images/generator_efficiency_drop.png)
 # Explanation of Efficiency Drop in Hydroelectric & Wind Power Generation
