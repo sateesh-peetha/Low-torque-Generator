@@ -36,6 +36,35 @@ This makes it difficult to create reliable off-grid energy systems, especially i
 
 ![Example](images/Traditional%20Generator%20drawbacks.png)
 
+![Output Drop](images/generator_efficiency_drop.png)
+# Explanation of Efficiency Drop in Hydroelectric & Wind Power Generation
+
+## Why Does Efficiency Drop Under Load?
+Traditional generators experience a significant decrease in efficiency when a load is applied due to the following reasons:
+
+### Electromagnetic Drag (Back EMF)
+- When current flows through the generator windings, it induces a magnetic field that opposes the rotor’s motion.  
+- This opposing force increases the mechanical input required to maintain rotation.  
+
+### Increased Mechanical Resistance
+- In hydroelectric power, more water pressure is needed to keep the turbine moving.  
+- In wind power, higher wind speeds are required to sustain the same rotational speed.  
+
+### Core Saturation & Heat Losses
+- Magnetic saturation in the core leads to inefficiencies, causing energy dissipation as heat.  
+- This further reduces the available output power.  
+
+## Statistics:
+
+### Hydroelectric Generators:
+- **Without Load:** ~90% efficiency  
+- **With Load:** Drops to ~80% due to increased mechanical resistance.  
+
+### Wind Power Generators:
+- **Without Load:** ~50% efficiency  
+- **With Load:** Drops to ~35% due to aerodynamic drag and increased generator resistance.  
+
+
 ## 🌿 Low-Torque Generator Concept
 
 
