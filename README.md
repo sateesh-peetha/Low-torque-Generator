@@ -1,7 +1,8 @@
 # Low Torque Generator – Open Source Clean Energy Innovation  
 
 ## 🚀 Project Overview  
-This project presents an **innovative low-torque generator design** aimed at revolutionizing clean energy generation. As global energy demands continue to rise, sustainable and efficient solutions are needed now more than ever.  
+This project presents an **innovative low-torque generator design** aimed at revolutionizing clean energy generation. As global energy demands continue to rise, sustainable and efficient solutions are needed now more than ever.  If you want to skip the licensing and project background, you can check the actual project technical details here: [Project Technical Details](https://github.com/sateesh-peetha/Low-torque-Generator/blob/main/OVERVIEW.md)
+
 
 ### **Why Open Source?**  
 I, **Sateesh Peetha**, have developed this generator but **lack the funds to apply for a patent**. Instead of delaying progress due to **24/7 surveillance and external obstacles**, I am making this design publicly available on GitHub. This ensures my invention is **documented and claimed under my name** while allowing the world to benefit from it.  
