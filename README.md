@@ -33,6 +33,8 @@ This project is licensed under the **CERN-OHL-S v2** to ensure:
 If you believe in **clean energy** and want to support innovation that benefits humanity, please consider donating to:  
 
 [🌍 **Support this project – Donate Here**](https://dhope.org/donation)  
+[🌍 **Support this project – Stripe Payments**](https://donate.stripe.com/5kQ28s29udls2EO1k2dZ600)  
+
 
 Your contributions help **fund further research, prototypes, and legal protections** to keep this technology available for everyone.  
 
